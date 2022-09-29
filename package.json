@@ -5,10 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start:dev": "SET NODE_ENV=development&& nodemon --exec babel-node src/server.js",
-    "start": "node ./build/server.js",
-    "clean": "del -f build && mkdir build",
-    "build-server": "babel -d ./build ./src -s",
-    "build": "npm run clean && npm run build-server"
+    "start": "node ./build/server.js"
   },
   "engines": {
     "node": "14.x"
