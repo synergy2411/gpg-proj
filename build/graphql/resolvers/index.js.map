@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","names":["resolvers","Query"],"sources":["../../../src/graphql/resolvers/index.js"],"sourcesContent":["import { Query } from './Query'\r\n\r\n\r\nconst resolvers = { Query }\r\n\r\nexport { resolvers }\r\n"],"mappings":";;;;;;;AAAA;;AAGA,IAAMA,SAAS,GAAG;EAAEC,KAAK,EAALA;AAAF,CAAlB"}

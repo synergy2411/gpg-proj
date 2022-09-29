@@ -1,0 +1,1 @@
+{"version":3,"file":"Query.js","names":["Query","hello"],"sources":["../../../src/graphql/resolvers/Query.js"],"sourcesContent":["const Query = {\r\n    hello: () => \"World\"\r\n}\r\n\r\nexport { Query }"],"mappings":";;;;;;AAAA,IAAMA,KAAK,GAAG;EACVC,KAAK,EAAE;IAAA,OAAM,OAAN;EAAA;AADG,CAAd"}

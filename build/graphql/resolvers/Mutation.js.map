@@ -1,0 +1,1 @@
+{"version":3,"file":"Mutation.js","names":["Mutation"],"sources":["../../../src/graphql/resolvers/Mutation.js"],"sourcesContent":["\r\nconst Mutation = {\r\n\r\n}\r\n\r\nexport { Mutation };\r\n"],"mappings":";;;;;;AACA,IAAMA,QAAQ,GAAG,EAAjB"}
